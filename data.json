@@ -1,0 +1,85 @@
+{
+    "Kertas Thermal": [
+        {
+            "foto": "images/edit/thermal bca.jpg",
+            "nama": "Kertas Thermal BCA",
+            "size": "10 Roll",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/edit/thermal bni.jpg",
+            "nama": "Kertas Thermal BNI",
+            "size": "10 Roll",
+            "harga": "32.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/edit/thermal bri.jpg",
+            "nama": "Kertas Thermal BRI",
+            "size": "10 Roll",
+            "harga": "34.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/edit/thermal mandiri.jpg",
+            "nama": "Kertas Thermal Mandiri",
+            "size": "10 Roll",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/edit/thermal cimb.jpg",
+            "nama": "Kertas Thermal CIMB",
+            "size": "10 Roll",
+            "harga": "29.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/edit/thermal citi.jpg",
+            "nama": "Kertas Thermal Citibank",
+            "size": "10 Roll",
+            "harga": "29.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "Charger": [
+        {
+            "foto": "images/edit/move 2500.png",
+            "nama": "Charger EDC Type Move 2500",
+            "size": "1 pcs",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/edit/ict 250.png",
+            "nama": "Charger EDC Type ICT 250",
+            "size": "1 pcs",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "Baterai": [
+        {
+            "foto": "images/edit/batre move.jpg",
+            "nama": "Baterai EDC Type Move",
+            "size": "1 pcs",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/edit/batre pax.jpg",
+            "nama": "Baterai EDC Type PAX",
+            "size": "1 pcs",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/edit/batre verifone.jpeg",
+            "nama": "Baterai EDC Type Verifone",
+            "size": "1 pcs",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
